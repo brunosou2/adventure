@@ -1,0 +1,115 @@
+/*texto*/
+.criador{
+    text-align: center;
+}
+#imagem{
+    width:100%
+
+}
+.marcas{
+    padding-left: 28%;
+}
+.titulo-cental{
+    text-align: center;
+    color: rgba(17, 80, 253, 0.979);
+    padding-left:50px;
+    font-size: 50px;
+    
+}
+.fundo1 {
+    background-image: url('World.png');
+    background-size: cover; /* imagem no fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* nao repeti a imagem */
+    height: 120vh;
+
+}
+.fundo2 {
+    background-image: url('World.png');
+    background-size: cover; /* imagem no fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* nao repeti a imagem */
+    height: 100%;
+
+}
+body {
+    margin: 0;
+    
+}
+
+strong{
+    color: rgb(17, 80, 253, 0.979);
+    
+    
+}
+.preto-text {
+    color: rgb(0, 0, 0);
+}
+
+.botao{
+    padding-bottom: 2%;
+    padding-left: 40%;
+}
+/*tabela*/
+.tablela-habilidade {
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center;     /* Alinha verticalmente (se necessário) */
+    height: 100vh;           /* Define a altura da tela inteira */
+    
+}
+.class-de-cada-raças{
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /*imagens */
+    height: 100vh;           /* a altura da tela inteira */
+
+}
+/*raças*/
+
+.linha {
+    display: flex; /* flexíveis */
+    
+    
+}
+
+.raca {
+    display: flex; /* imagem + texto */
+    width: calc(50%);
+}
+
+.pessonagens1, .pessonagens2 {
+
+    height: 60%; /* Altura fixa para as imagens */
+    width: auto; /* A largura se ajusta automaticamente para manter a proporção */
+    margin-top: 5%;
+}
+
+.descricao {
+    margin-left: 10px; /* Espaço entre a imagem e o texto */
+    font-size: 15px; /* Tamanho da fonte menor */
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
